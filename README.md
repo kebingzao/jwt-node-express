@@ -1,4 +1,4 @@
-#一个关于JWT (JSON Web Tokens)的Node/Express Example
+#涓�涓叧浜嶫WT (JSON Web Tokens)鐨凬ode/Express Example
 
 This simple application is designed to demonstrate the principle of using JWT (JSON Web Tokens) as access tokens to protect an API.
 
