@@ -11,7 +11,7 @@ var mongoose = require('mongoose');
 var UserModel = require('./models/user')
 
 /**
- * Á¬½ÓÊı¾İ¿â£¬²¢ÇÒ³õÊ¼»¯ÓÃ»§ĞÅÏ¢
+ * è¿æ¥æ•°æ®åº“ï¼Œå¹¶ä¸”åˆå§‹åŒ–ç”¨æˆ·ä¿¡æ¯
  */
 mongoose.connect('mongodb://localhost/jwttest');
 
